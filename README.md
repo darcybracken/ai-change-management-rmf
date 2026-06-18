@@ -41,3 +41,9 @@ MedCore Health Systems is adopting AI tools across clinical and administrative w
 ---
 
 [Project Overview](AI%20Change%20Mgmt%20RMF%20-%20(Overview).md)
+
+---
+
+## License
+
+This work is licensed under [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/). You are free to share and adapt the material with appropriate credit.
