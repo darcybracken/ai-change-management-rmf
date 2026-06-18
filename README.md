@@ -34,15 +34,10 @@ MedCore Health Systems is adopting AI tools across clinical and administrative w
 
 - [ISMS Implementation - NIST CSF 2.0](https://github.com/darcybracken/isms-nist-csf-2.0) - GRC project for a mock financial services org (FinCorp)
 
----
 
 *Completed June 2026 - 14 deliverables across 6 folders*
-
----
-
 [Project Overview](AI%20Change%20Mgmt%20RMF%20-%20(Overview).md)
 
----
 
 ## License
 
